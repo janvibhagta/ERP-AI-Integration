@@ -1,0 +1,16 @@
+{
+    "contracts": [
+        {
+            "id": 1,
+            "text": "This contract requires payment within 30 days and includes a confidentiality agreement."
+        },
+        {
+            "id": 2,
+            "text": "The agreement has a termination clause and payment within 15 days."
+        },
+        {
+            "id": 3,
+            "text": "Standard service contract without special clauses."
+        }
+    ]
+}
